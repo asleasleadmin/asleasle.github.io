@@ -1,0 +1,1 @@
+window.addEventListener("load",(function(){setTimeout((function(){document.getElementById("loading-screen").style.opacity="0",document.getElementById("content").style.opacity="1",setTimeout((function(){document.getElementById("loading-screen").style.display="none"}),1e3)}),2e3)}));
